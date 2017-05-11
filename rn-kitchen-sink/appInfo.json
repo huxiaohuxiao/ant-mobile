@@ -1,0 +1,10 @@
+{
+  "android": {
+    "appversion": "1.0.0",
+    "appurl": "https://mobile.ant.design/rn-kitchen-sink/antd-mobile.apk"
+  },
+  "ios": {
+    "appversion": "1.0.0",
+    "appurl": "https://mobile.ant.design/rn-kitchen-sink/qrcode.html"
+  }
+}
