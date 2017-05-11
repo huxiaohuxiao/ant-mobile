@@ -49,7 +49,7 @@ exports[`Picker renders correctly 1`] = `
                 "alignItems": "center",
                 "backgroundColor": "#fff",
                 "flexDirection": "row",
-                "flexGrow": 1,
+                "flex": 1,
                 "paddingLeft": 15,
               },
               undefined,
